@@ -1,0 +1,31 @@
+brew:
+  pkgs:
+    - bash-completion
+    - ccat
+    - doctl
+    - fd
+    - fzf
+    - git
+    - glide
+    - htop-osx
+    - httpie
+    - hub
+    - icdiff
+    - macvim
+    - mysql
+    - ncdu
+    - neovim
+    - pass
+    - pv
+    - qemu
+    - rabbitmq
+    - reattach-to-user-namespace
+    - ripgrep
+    - s3cmd
+    - s-search
+    - the_silver_searcher
+    - tmux
+    - tree
+    - wget
+    - xz
+    - yank

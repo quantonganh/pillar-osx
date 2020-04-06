@@ -1,0 +1,41 @@
+brew:
+  cask:
+    pkgs:
+      - adium
+      - alfred
+      - appcleaner
+      - caffeine
+      - calibre
+      - cheatsheet
+      - clamxav
+      - dropbox
+      - etrecheck
+      - firefox
+      - flux
+      - flycut
+      - google-chrome
+      - ibackupbot
+      - iterm2
+      - karabiner-elements
+      - keepassx
+      - kindle
+      - magicprefs
+      - mattermost
+      - java
+      - macdown
+      - mist
+      - qtpass
+      - rightzoom
+      - skitch
+      - skype
+      - slack
+      - teamviewer
+      - textwrangler
+      - the-unarchiver
+      - vagrant
+      - vagrant-manager
+      - virtualbox
+      - virtualbox-extension-pack
+      - vlc
+      - vmware-fusion
+      - xmind
